@@ -1,5 +1,5 @@
-<h1>Hi there, I'm Alexey!</h1>
-<h2>About me</h2>
+<h1>Hi there🖐🏼</h1>
+<h3>About me</h3>
 <p></p>
 <h3>💻 Currently working on:</h3>
 <p>— <a href="https://github.com/Alexey045/WeatherBot">⛈️Weather bot</a>
