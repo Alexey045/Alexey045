@@ -1,6 +1,6 @@
 <h1>Hi there🖐🏼</h1>
 <h3>👨‍💻 About me</h3>
-<p>My name is Alexey. I'm future <b>Web & App</b> developer. Just graduated from high school🎓</p>
+<p>My name is <b>Alexey</b>. I'm future <b>Web & App</b> developer. Just graduated from high school🎓</p>
 
 <h3>📖 Knowledge</h3>
 <p>
