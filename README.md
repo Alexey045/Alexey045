@@ -24,3 +24,8 @@
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
 </p>
+
+<h3>Achievements</h3>
+<p>
+  <img src="https://stepik.org/certificate/ca8ef9f6e26622b74f7e1c237097ba6b9e87e455.png?resolution=low" alt="stepik html">
+</p>
