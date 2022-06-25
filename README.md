@@ -17,7 +17,7 @@ My name is **Alexey**. I'm future **Web & App** developer. Just graduated from h
 — [⛈️Weather bot](https://github.com/Alexey045/WeatherBot)  
 — [🤩My blog](https://github.com/Alexey045/MyBlog)
 
-### Achievements
+### 🏆 Achievements
 
 — [Yandex Lyceum first year](https://lyceum.yandex.ru/certificate/check/?certNumber=200132263&lastName=Кривоносов)  
 — [Yandex Lyceum second year](https://lyceum.yandex.ru/certificate/check/?certNumber=210232263&lastName=Кривоносов)  
