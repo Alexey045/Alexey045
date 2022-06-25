@@ -1,31 +1,33 @@
-<h1>Hi there🖐🏼</h1>
-<h3>👨‍💻 About me</h3>
-<p>My name is <b>Alexey</b>. I'm future <b>Web & App</b> developer. Just graduated from high school🎓</p>
+# Hi there🖐🏼
 
-<h3>📖 Knowledge</h3>
-<p>
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLITE">
-</p>
+### 👨‍💻 About me
 
-<h3>💻 Currently working on:</h3>
-<p>— <a href="https://github.com/Alexey045/WeatherBot">⛈️Weather bot</a>
-<br>
-— <a href="https://github.com/Alexey045/MyBlog">🤩My blog</a>
-</p>
+My name is **Alexey**. I'm future **Web & App** developer. Just graduated from high school🎓
 
-<h3>🖥️ Currently learning:</h3>
-<p>
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/react & react native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React & React Native">
-<img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
-<img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-</p>
+### 📖 Knowledge
 
-<h3>Achievements</h3>
-<p>
-  <img src="https://stepik.org/certificate/ca8ef9f6e26622b74f7e1c237097ba6b9e87e455.png?resolution=low" alt="stepik html">
-</p>
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SQLITE](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 💻 Currently working on:
+
+— [⛈️Weather bot](https://github.com/Alexey045/WeatherBot)  
+— [🤩My blog](https://github.com/Alexey045/MyBlog)
+
+### 🖥️ Currently learning:
+
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React & React Native](https://img.shields.io/badge/react_&_react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C\#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+
+### Achievements
+
+[Stepik HTML & CSS for beginners with honors](https://stepik.org/certificate/ca8ef9f6e26622b74f7e1c237097ba6b9e87e455.png?resolution=high)  
+[Stepik HTML & CSS basics](https://stepik.org/certificate/2394446ab2c4116b09f11a0c82531cca9103718b.png?resolution=high)  
+[Yandex Lyceum first year](https://lyceum.yandex.ru/certificate/check/?certNumber=200132263&lastName=Кривоносов)  
+[Yandex Lyceum second year](https://lyceum.yandex.ru/certificate/check/?certNumber=210232263&lastName=Кривоносов)
