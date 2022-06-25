@@ -19,10 +19,11 @@ My name is **Alexey**. I'm future **Web & App** developer. Just graduated from h
 
 ### Achievements
 
+[Yandex Lyceum first year](https://lyceum.yandex.ru/certificate/check/?certNumber=200132263&lastName=Кривоносов)  
+[Yandex Lyceum second year](https://lyceum.yandex.ru/certificate/check/?certNumber=210232263&lastName=Кривоносов)  
 [Stepik HTML & CSS for beginners with honors](https://stepik.org/certificate/ca8ef9f6e26622b74f7e1c237097ba6b9e87e455.png?resolution=high)  
 [Stepik HTML & CSS basics](https://stepik.org/certificate/2394446ab2c4116b09f11a0c82531cca9103718b.png?resolution=high)  
-[Yandex Lyceum first year](https://lyceum.yandex.ru/certificate/check/?certNumber=200132263&lastName=Кривоносов)  
-[Yandex Lyceum second year](https://lyceum.yandex.ru/certificate/check/?certNumber=210232263&lastName=Кривоносов)
+
 
 ### 🖥️ Currently learning:
 
