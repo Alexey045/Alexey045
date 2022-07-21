@@ -32,4 +32,4 @@ My name is **Alexey**. I'm future **Web & App** developer. Just graduated from h
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React & React Native](https://img.shields.io/badge/react_&_react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![C\#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+![Godot Engine](https://img.shields.io/badge/GODOT-%23474ABF.svg?style=for-the-badge&logo=godot-engine)
