@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About me
 
-My name is **Alexey**. I'm future **Web & App** developer. I sudy in Tyumen State University.
+My name is **Alexey**. I'm future **Web & App** developer. I study in Tyumen State University.
 
 ### 📖 Knowledge
 
